@@ -402,6 +402,12 @@ YouTube: **JaanTech** — Linux Users & Permissions — Permission Denied
 
 ---
 
+---
+## Read the full article on:
+### Medium 
+https://medium.com/@abdullahaiops9/why-did-linux-say-permission-denied-i-found-out-the-hard-way-37f20cd9f1f9
+---
+
 ## Author 
 JaanTech
 
